@@ -8,7 +8,6 @@
 ### 🔍 About Me
 
 - 🚀 Passionate about building impactful tech & AI-driven solutions  
-- 💻 Currently working on **AI-powered vehicle detection** and **smart auditing tools**
 - ☕ Loves coffee, especially when coding at night
 - 💡 Exploring new things: `Next.js`, `Express`, `Golang`, and `PostgreSQL`
 
