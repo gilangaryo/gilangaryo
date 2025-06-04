@@ -41,7 +41,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/gilangaryo"><img src="https://img.shields.io/badge/LinkedIn-GilangAryo-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:gilang91668@gmail.com"><img src="https://img.shields.io/badge/Email-gilang91668@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://gilangaryo.dev"><img src="https://img.shields.io/badge/Website-gilangaryo.dev-4E69C8?style=flat&logo=google-chrome" /></a>
+  <a href="https://gilangaryo.dev"><img src="https://img.shields.io/badge/Website-gilangaryo.dev-4E69C8?style=flat&logo=google-chrome"  /></a>
 </p>
 
 ---
